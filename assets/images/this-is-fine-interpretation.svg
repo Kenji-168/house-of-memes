@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">This Is Fine: museum interpretation</title>
+  <desc id="desc">An original snail sheltering under an umbrella while papers swirl in a storm, representing composure amid chaos. This is not the original meme artwork.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#202b3a"/>
+      <stop offset="1" stop-color="#354253"/>
+    </linearGradient>
+    <linearGradient id="shell" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c5a46d"/>
+      <stop offset="1" stop-color="#6d293c"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="#15151b"/>
+  <rect x="22" y="22" width="556" height="356" rx="8" fill="url(#sky)" stroke="#c5a46d" stroke-width="3"/>
+  <path d="M66 109c35-45 82-48 114-24M417 98c35-27 79-19 108 7M77 179c31-31 63-32 89-14" fill="none" stroke="#90a0af" stroke-width="4" stroke-linecap="round" opacity=".65"/>
+  <path d="M142 129l30-17-2 37zM434 157l32-9-17 31zM356 88l21 8-20 17z" fill="#d9c7a1" opacity=".75"/>
+  <path d="M114 263c82-19 185-15 272 0v55H114z" fill="#24242e"/>
+  <ellipse cx="296" cy="269" rx="92" ry="15" fill="#15151b" opacity=".65"/>
+  <path d="M215 260c4-48 33-78 78-78 36 0 62 22 70 58 16 2 28 10 34 22-28 25-132 31-182 6z" fill="#d9c7a1" stroke="#c5a46d" stroke-width="4"/>
+  <path d="M263 230c4-27 26-45 51-42 24 3 39 22 35 45-4 23-26 39-50 36-24-3-39-17-36-39z" fill="url(#shell)" stroke="#c5a46d" stroke-width="4"/>
+  <path d="M282 226c12-12 30-10 34 3 3 11-8 22-20 18-9-3-9-15 0-19" fill="none" stroke="#f3e8d5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M322 187l8-22M344 191l16-15" stroke="#d9c7a1" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="331" cy="164" r="6" fill="#f3e8d5"/>
+  <circle cx="361" cy="174" r="6" fill="#f3e8d5"/>
+  <circle cx="332" cy="164" r="2" fill="#15151b"/>
+  <circle cx="362" cy="174" r="2" fill="#15151b"/>
+  <path d="M250 183Q290 114 367 145Q361 158 348 164Q301 146 264 192z" fill="#6d293c" stroke="#c5a46d" stroke-width="4"/>
+  <path d="M307 149l-12 93" stroke="#c5a46d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M133 210l28-11 7 28-29 8zM422 218l25-13 12 26-27 13z" fill="#f3e8d5" opacity=".82"/>
+  <text x="300" y="355" text-anchor="middle" fill="#c5a46d" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" letter-spacing="3">MUSEUM INTERPRETATION</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Nyan Cat: museum interpretation</title>
+  <desc id="desc">An original pixel-style golden star with musical notes and floating pixels, representing playful online energy. It is not Nyan Cat's character or original artwork.</desc>
+  <rect width="600" height="400" fill="#15151b"/>
+  <rect x="22" y="22" width="556" height="356" rx="8" fill="#20202a" stroke="#c5a46d" stroke-width="3"/>
+  <g fill="#f3e8d5" opacity=".85">
+    <circle cx="90" cy="82" r="3"/><circle cx="144" cy="147" r="2"/><circle cx="487" cy="85" r="3"/>
+    <circle cx="531" cy="188" r="2"/><circle cx="108" cy="246" r="2"/><circle cx="462" cy="277" r="3"/>
+    <circle cx="211" cy="66" r="2"/><circle cx="383" cy="70" r="2"/><circle cx="517" cy="319" r="2"/>
+  </g>
+  <g fill="#6d293c">
+    <rect x="76" y="139" width="18" height="18"/><rect x="108" y="171" width="12" height="12"/>
+    <rect x="477" y="132" width="16" height="16"/><rect x="453" y="161" width="11" height="11"/>
+    <rect x="131" y="292" width="14" height="14"/><rect x="427" y="235" width="12" height="12"/>
+  </g>
+  <path d="M152 207h46v-30h42v-24h42v-23h38v25h39v23h42v29h53v48h-54v29h-41v21h-45v-20h-43v-24h-42v-22h-77z" fill="#c5a46d"/>
+  <path d="M198 207h42v-30h42v-24h38v25h39v23h42v29h-44v28h-42v22h-44v-20h-43v-24h-30z" fill="#e2bb78"/>
+  <path d="M263 172h21v21h-21zM330 197h21v21h-21zM286 239h19v19h-19z" fill="#6d293c"/>
+  <path d="M227 206h8v8h-8zM369 207h8v8h-8z" fill="#15151b"/>
+  <g fill="#f3e8d5">
+    <path d="M135 245v-46h8v41c13-7 27 1 24 14-3 15-24 18-32 5-3-5-3-9 0-14z"/>
+    <path d="M465 190v-39h8v34c12-6 24 1 22 12-2 13-21 16-28 5-3-4-3-8-2-12z"/>
+  </g>
+  <g fill="#c5a46d">
+    <circle cx="145" cy="254" r="8"/><circle cx="470" cy="200" r="7"/>
+  </g>
+  <text x="300" y="355" text-anchor="middle" fill="#c5a46d" font-family="Segoe UI, sans-serif" font-size="16" font-weight="700" letter-spacing="3">MUSEUM INTERPRETATION</text>
+</svg>

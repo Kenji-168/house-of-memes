@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The House of Memes</title>
+    <meta
+      name="description"
+      content="A museum-style gallery of iconic internet memes and their cultural origins."
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav container" aria-label="Main navigation">
+        <div class="brand" aria-label="House of Memes home">House of Memes</div>
+        <div class="nav-links">
+          <a href="#home">Home</a>
+          <a href="#gallery">Gallery</a>
+          <a href="#about">About</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home" class="hero container">
+        <div class="hero-copy">
+          <p class="eyebrow">Digital Museum Collection</p>
+          <h1>From Viral Moments to Timeless Exhibits</h1>
+          <p class="intro">
+            Welcome to the House of Memes, where early social media chaos, dramatic reaction faces,
+            and internet absurdity are preserved as cultural artifacts. Step into the gallery and
+            admire the classics before they vanish into the scroll.
+          </p>
+        </div>
+      </section>
+
+      <section id="gallery" class="gallery-section container">
+        <div class="section-heading">
+          <p class="eyebrow">Curated Collection</p>
+          <h2>Meme Gallery</h2>
+        </div>
+        <div id="meme-gallery" class="meme-gallery" aria-live="polite"></div>
+      </section>
+
+      <section id="detail" class="detail-section" aria-live="polite">
+        <div class="container detail-panel">
+          <button id="back-to-gallery" class="back-button" type="button">← Return to gallery</button>
+          <div id="meme-detail"></div>
+        </div>
+      </section>
+
+      <section id="about" class="about container">
+        <div class="section-heading">
+          <p class="eyebrow">Museum Note</p>
+          <h2>About the Collection</h2>
+        </div>
+        <div class="about-card">
+          <p>
+            The House of Memes is a small virtual museum for the internet's most recognizable visual
+            jokes. From the surreal to the sincere, these images document how online humor travels,
+            mutates, and becomes a shared language across platforms.
+          </p>
+          <p>
+            The collection is curated for curious visitors who want a few excellent specimens from the
+            history of meme culture, presented like a respectful gallery catalog with a wink.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span>House of Memes</span>
+        <span>Curated for the internet's favorite relics.</span>
+      </div>
+    </footer>
+
+    <script src="js/memes.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
